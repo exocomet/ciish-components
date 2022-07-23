@@ -1,0 +1,22 @@
+{
+  "name": "ciish-components",
+  "version": "0.0.1",
+  "description": "A Vue component library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exocomet/ciish-components.git"
+  },
+  "author": "Alexander Kutterer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exocomet/ciish-components/issues"
+  },
+  "homepage": "https://github.com/exocomet/ciish-components#readme",
+  "exports": {
+    "import": "./src/index.js"
+  }
+}
